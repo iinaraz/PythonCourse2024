@@ -7,3 +7,6 @@ def calculate_rectangle():
     length = int(input("Length:"))
 
     return("Area of a rectangle:", width * length, "Circumference of a rectangle:", width*2+length*2)
+
+answer = calculate_rectangle()
+print(answer)
