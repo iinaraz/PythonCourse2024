@@ -5,3 +5,7 @@ This repository contains all the assignments for the [Python Course 2024](https:
 All the assignments are submitted to this repository.
 
 Practicing version control.
+
+Notes
+
+- Have to save the files to see the commits to be made
