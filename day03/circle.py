@@ -3,7 +3,7 @@
 import math
 
 # Define function
-def calculate_circle():
+def calculate_circle(radius):
 
     radius = int(input("Radius:"))
 
